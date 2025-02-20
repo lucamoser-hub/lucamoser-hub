@@ -1,4 +1,3 @@
 ## Hi there 👋
-
-<!--- 🌱 I’m currently learning ... systems development---!>
+## 🌱 I’m currently learning ... systems development
 
